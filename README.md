@@ -15,20 +15,23 @@ Este repositório contém a resolução de alguns exercícios do [LeetCode](http
 ## [Link da Apresentação]()
 
 
-
 ## Screenshots
 
-## Exercicio 1 - xx
+## Exercicio 1 - Sort List
 
-Dificuldade: xx <br>
-Link: []()
+Dificuldade: Médio <br>
+Link: [Sort List](https://leetcode.com/problems/sort-list/)
 
+Este é um exercício consiste na ordenação de uma lista encadeada usando mergesort, algoritmo visto durante as aulas de dividir e conquistar. Compelxidade O (n log n)
 
 ![](assets/img/exec1.png)
 
-## Exercicio 2 - xx
-Dificuldade: xx <br>
-Link: []()
+## Exercicio 2 - Find the Kth Largest Integer in the Array
+
+Dificuldade: Médio <br>
+Link: [Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/)
+
+Este exercício também utiliza a ideia de dividir o array pra depois achar o maior elemento pelo índice.
 
 ![](assets/img/exec2.png)
 
