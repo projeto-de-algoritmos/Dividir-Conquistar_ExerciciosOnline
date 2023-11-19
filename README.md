@@ -26,12 +26,12 @@ Este é um exercício consiste na ordenação de uma lista encadeada usando merg
 
 ![](assets/img/exec1.png)
 
-## Exercicio 2 - Find the Kth Largest Integer in the Array
+## Exercicio 2 - Merge k Sorted Lists
 
-Dificuldade: Médio <br>
-Link: [Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/)
+Dificuldade: Difícil <br>
+Link: [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
-Este exercício também utiliza a ideia de dividir o array pra depois achar o maior elemento pelo índice.
+Este exercício também utiliza o algoritmo mergesort para unir k listas encadeadas (passadas como entrada) em uma única lista encadeada.
 
 ![](assets/img/exec2.png)
 
