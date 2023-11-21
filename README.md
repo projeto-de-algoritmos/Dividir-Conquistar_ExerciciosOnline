@@ -36,9 +36,11 @@ Este exercício também utiliza o algoritmo mergesort para unir k listas encadea
 ![](assets/img/exec2.png)
 
 
-## Exercicio 3 - xx
-Dificuldade: xx <br>
-Link: []()
+## Exercicio 3 - Median of Two Sorted Arrays
+Dificuldade: Difícil <br>
+Link: [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+
+Neste exercício utilizei o algoritmo de busca binária para encontrar a mediana de duas listas ordenadas. Uma curiosidade é que há uma divisão por 2.0 no código em um dos returns, para correto funcionamento em python, entretanto se a linguagem selecionada for python3, a divisão pode ser feita por 2 normalmente.
 
 
 ![](assets/img/exec3.png)
